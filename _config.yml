@@ -1,0 +1,28 @@
+name: LXNET
+favicon: null
+layout_spectrum: 0.276913249399513
+typography_spectrum: 0.7032690623309463
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8959764789324254
+  lightness: 0.452811605297029
+  saturation: 0.3128142755012959
+  rhythmicContrast: 0.0018930889200419188
+purpose: []
