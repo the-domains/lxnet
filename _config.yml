@@ -1,28 +1,40 @@
-name: LXNET
-favicon: null
-layout_spectrum: 0.276913249399513
-typography_spectrum: 0.7032690623309463
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3128142755012959
+  brandStrength: 0.8959764789324254
+  lightness: 0.452811605297029
+  brandColors:
+    - '#190F0D'
+    - '#374B56'
+    - '#779CAC'
+    - '#556D7B'
+    - '#F0F4F7'
+  rhythmicContrast: 0.001893088920041919
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+favicon: null
+name: LXNET
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.8959764789324254
-  lightness: 0.452811605297029
-  saturation: 0.3128142755012959
-  rhythmicContrast: 0.0018930889200419188
-purpose: []
+typography_spectrum: 0.4795918
+layout_spectrum: 0.2593985
